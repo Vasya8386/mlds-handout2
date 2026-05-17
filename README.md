@@ -42,5 +42,3 @@ pip install -r requirements.txt
 * K-Fold Cross Validation
 * Decision Trees
 * Overfitting vs Underfitting
-jupyter
-````
