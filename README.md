@@ -12,6 +12,17 @@ This repository contains my exercises while learning the fundamentals of Machine
 - Markdown handout notes
 - Jupyter Notebook exercises
 
+# Project Structure
+
+```bash
+mlds-handout2/
+│
+├── MDS_Handout2.ipynb
+└── README.md
+```
+
+---
+
 ## Installation
 
 Clone the repository:
