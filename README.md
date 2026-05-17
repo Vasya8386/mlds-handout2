@@ -21,8 +21,6 @@ mlds-handout2/
 └── README.md
 ```
 
----
-
 ## Installation
 
 Clone the repository:
